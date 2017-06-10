@@ -1,0 +1,13 @@
+
+
+body {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  color: white;
+  box-sizing: border-box;
+  background-color: #242424;
+  font-family: 'Roboto Light', serif;
+  font-size: 1em;
+}
+
